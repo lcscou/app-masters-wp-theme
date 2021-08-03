@@ -1,2 +1,6 @@
-# app-masters-wp-theme
-Dummy project developed with Timber 
+# App Masters WordPress Theme
+
+Projeto desenvolvido para aplicar conceitos de desenvolvimento usando as seguintes tecnologias
+
+- Docker
+- Timber
